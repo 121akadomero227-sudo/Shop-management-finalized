@@ -27,7 +27,7 @@ icon.adaptive_foreground.filename = %(source.dir)s/icon_foreground.png
 icon.adaptive_background.filename = %(source.dir)s/icon_background.png
 
 # ---- Display ----
-orientation = portrait
+orientation = portrait, landscape
 fullscreen = 0
 
 # ---- Android ----
